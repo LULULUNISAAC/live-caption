@@ -2,6 +2,7 @@
 
 A simple web app that listens to speech, shows live captions, and translates them into another language in real time.
 
+https://lululunisaac.github.io/live-caption/
 ---
 
 ## What This App Does

@@ -1,4 +1,4 @@
-# Live Caption Translator
+# AN OFFLINE Live Caption Translator
 
 A simple web app that listens to speech, shows live captions, and translates them into another language in real time.
 
